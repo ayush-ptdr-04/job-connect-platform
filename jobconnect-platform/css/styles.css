@@ -7,14 +7,14 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #000000b3;
-  color: #1f2937;
+  background-color: #000;
+  color: #2f4d2a;
 }
 
 .LOGO {
   animation: 0;
   text-decoration: none;
-  color: aliceblue;
+  color: white;
 }
 
 .Menu {
@@ -24,13 +24,11 @@ body {
 }
 
 .Card {
-  border-radius: 10px;
-}
-
-.Cardd {
-  color: #26a631;
+  border-radius: 20px;
+  color: #f7a400;
   background-color: #000000;
 }
+
 .getstarted {
   text-decoration: none;
   color: white;
@@ -168,7 +166,7 @@ body {
 }
 
 .bg-gradient-to-r {
-  background: linear-gradient(to right, #000000, #0a9fe4);
+  background: linear-gradient(to right, #000000, #e4940a);
   border-bottom: 2px solid;
 }
 
@@ -177,7 +175,7 @@ body {
 }
 
 .bg-teal-500 {
-  background-color: #26a631;
+  background-color: #f7a400;
 }
 
 /* .bg-gray-50 {
